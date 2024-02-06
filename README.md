@@ -14,7 +14,7 @@ Let's create magic through code! ✨
 
 
 ---
-
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?Jatin-Panesiya
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?Jatin-Panesiya&theme=dark&background=000000)](https://git.io/streak-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jatin-Panesiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jatin-Panesiya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Panesiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
