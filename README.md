@@ -11,3 +11,9 @@
 📫 Reach me via email or LinkedIn. Check out my work here : https://jatinpanesiya-portfolio.netlify.app/
 
 Let's create magic through code! ✨
+
+
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?Jatin-Panesiya
