@@ -1,37 +1,38 @@
-<h1>🚀 Jatin Panesiya | MERN Stack Developer</h1>
+# 🚀 Jatin Panesiya | **MERN Stack Developer**  
 
-Hi there! I'm Jatin Panesiya, a passionate MERN Stack Developer with 1 year of experience in building scalable and high-performance web applications. I specialize in frontend development and love crafting clean, responsive, and dynamic user interfaces.
+Hi there! I'm **Jatin Panesiya**, a passionate **MERN Stack Developer** with **1 year of experience** in building scalable and high-performance web applications. I specialize in **frontend development** and love crafting clean, responsive, and dynamic user interfaces.  
 
-💻 Tech Stack & Skills
-🔹 Frontend
-Languages: HTML, CSS, JavaScript, TypeScript
+---
 
-Frameworks & Libraries: React.js, Next.js
+## 💻 **Tech Stack & Skills**  
 
-State Management: Redux Toolkit
+### 🔹 **Frontend**  
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Frameworks & Libraries:** React.js, Next.js  
+- **State Management:** Redux Toolkit  
+- **Styling:** Tailwind CSS, Bootstrap, SCSS  
 
-Styling: Tailwind CSS, Bootstrap, SCSS
+### 🔹 **Backend**  
+- **Runtime & Framework:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT, Firebase Auth  
 
-🔹 Backend
-Runtime & Framework: Node.js, Express.js
+### 🔹 **Tools & Platforms**  
+- Git & GitHub  
+- VS Code  
+- Postman  
 
-Database: MongoDB
+---
 
-Authentication: JWT, Firebase Auth
+## 📌 **Current Focus**  
+🚀 Enhancing my expertise in **React & Next.js**  
+💼 Freelancing on **Upwork**  
+📈 Learning **Digital Marketing (SMM)** for personal brand growth  
 
-🔹 Tools & Platforms
-Git & GitHub
-VS Code
-Postman
+---
 
-📌 Current Focus
-🚀 Enhancing my expertise in React & Next.js
-💼 Freelancing on Upwork
-📈 Learning Digital Marketing (SMM) for personal brand growth
+## 🔗 **Connect with Me**  
+- 💼 **LinkedIn:** [linkedin.com/in/jatin-panesiya](https://www.linkedin.com/in/jatin-panesiya/)  
+- 🔥 **Portfolio:** [jatin-panesiya.vercel.app](https://jatin-panesiya.vercel.app/)  
 
-🔗 Connect with Me <br />
-💼 LinkedIn - https://www.linkedin.com/in/jatin-panesiya/
-
-🔥 Portfolio - https://jatin-panesiya.vercel.app/
-
-Let’s connect and build something amazing! 🚀😃
+Let’s connect and build something amazing! 🚀😃  
