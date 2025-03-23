@@ -26,7 +26,6 @@ Hi there! I'm **Jatin Panesiya**, a passionate **MERN Stack Developer** with **1
 
 ## 📌 **Current Focus**  
 🚀 Enhancing my expertise in **React & Next.js**  
-💼 Freelancing on **Upwork**  
 📈 Learning **Digital Marketing (SMM)** for personal brand growth  
 
 ---
