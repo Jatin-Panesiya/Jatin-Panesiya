@@ -1,4 +1,4 @@
-🚀 Jatin Panesiya | MERN Stack Developer
+<h1>🚀 Jatin Panesiya | MERN Stack Developer</h1>
 
 Hi there! I'm Jatin Panesiya, a passionate MERN Stack Developer with 1 year of experience in building scalable and high-performance web applications. I specialize in frontend development and love crafting clean, responsive, and dynamic user interfaces.
 
