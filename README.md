@@ -21,9 +21,7 @@ Authentication: JWT, Firebase Auth
 
 🔹 Tools & Platforms
 Git & GitHub
-
 VS Code
-
 Postman
 
 📌 Current Focus
@@ -31,7 +29,7 @@ Postman
 💼 Freelancing on Upwork
 📈 Learning Digital Marketing (SMM) for personal brand growth
 
-🔗 Connect with Me
+🔗 Connect with Me <br />
 💼 LinkedIn - https://www.linkedin.com/in/jatin-panesiya/
 
 🔥 Portfolio - https://jatin-panesiya.vercel.app/
