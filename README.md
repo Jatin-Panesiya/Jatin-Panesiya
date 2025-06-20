@@ -1,6 +1,6 @@
 # 🚀 Jatin Panesiya | **MERN Stack Developer**  
 
-Hi there! I'm **Jatin Panesiya**, a passionate **MERN Stack Developer** with **1 year of experience** in building scalable and high-performance web applications. I specialize in **frontend development** and love crafting clean, responsive, and dynamic user interfaces.  
+Hi there! I'm **Jatin Panesiya**, a passionate **MERN Stack Developer** with **more than 1 year of experience** in building scalable and high-performance web applications. I specialize in **frontend development** and love crafting clean, responsive, and dynamic user interfaces.  
 
 ---
 
@@ -25,8 +25,7 @@ Hi there! I'm **Jatin Panesiya**, a passionate **MERN Stack Developer** with **1
 ---
 
 ## 📌 **Current Focus**  
-🚀 Enhancing my expertise in **React & Next.js**  
-📈 Learning **Digital Marketing (SMM)** for personal brand growth  
+🚀 Enhancing my expertise in **React & Next.js** 
 
 ---
 
